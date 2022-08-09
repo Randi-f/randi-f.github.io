@@ -2,18 +2,18 @@
 
 You can use the [editor on GitHub](https://github.com/Randi-f/randi-f.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
-email: Lucifer_1412@bupt.edu.cn
+
 <table border="0">
   <tr>
     <td width="75%">
-      <h1>张三</h1>
-      <p><b>硕士研究生</b></p>
-      <p><b>××大学××学院</b></p>
-      <p><b>邮箱：1234567789@qq.com</b></p>
-      <p><b>地址：××市××区××路××号××大学，××楼，邮编×××</b></p>
+      <h1>Shihan Fu</h1>
+      <p><b>undergraduate</b></p>
+      <p><b>BUPT-IoT</b></p>
+      <p><b>email: Lucifer_1412@bupt.edu.cn</b></p>
+      <p><b>address：Beijing</b></p>
     </td>
     <td width="25%">
-      <img src="/证件照FSH.jpg" width="100%">      % 插入证件照代码
+      <img src="/shihanfu.png" width="100%">      
     </td>
   </tr>
 </table>
