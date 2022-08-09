@@ -1,6 +1,4 @@
-## SHIHAN FU
-
-You can use the [editor on GitHub](https://github.com/Randi-f/randi-f.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+## WELCOME TO SHIHAN FU's PROFILE
 
 
 <table border="0">
@@ -18,35 +16,44 @@ You can use the [editor on GitHub](https://github.com/Randi-f/randi-f.github.io/
   </tr>
 </table>
 
+### Biography
+I'm a student studying in BUPT, majoring in IoT.
+  
+### Educations
+Beijing University of Posts and Telecommunications (BUPT) Sep. 2019 - Present   
 
-### Markdown
+Bachelor of Engineering (Candidate) in Internet of Things Engineering 
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+GPA:3.72/4.0 (89.48/100)  
 
-```markdown
-Syntax highlighted code block
+RANK: 24/183  
+  
+### HONORS & AWARDS
+-First-class Scholarship, Beijing University of Posts and Telecommunications (Dec. 2021)
+  
+-Second-class Scholarship, Beijing University of Posts and Telecommunications (Dec. 2020)
+  
+-Good Student Award, Beijing University of Posts and Telecommunications (Dec. 2021)
+  
+-Second Prize of Class C in the 2020 National English Competition for College Students (Nov. 2020)
+  
+-Third Prize of the Red Practice in the 11th Capital "Challenge Cup" College Students' Extracurricular Academic Science and Technology Works Competition                (May 2021)
+  
+### PUBLICATIONS
+-Shihan Fu, Attention based VGG Network for Facial Expression Recognition, 2022 International Conference on Information Engineering, Electronics and Communication Technology (IEECT 2022). Accepted.
+  
+### RESEARCH EXPERIENCE
+#### Wangxuan Institute of Computer Technology (WICT), Peking University
+ 
+ Academic Supervisor: Assoc. Prof. Xiaoqing Lyu (Feb. 2022 - Present)
+ 
+- Studied Machine Learning (written by Zhihua Zhou), Stanford University CS231n and other reference materials for learning about graph neural networks, parameterized quantum, and analyzed gene matching algorithms.
+- Completed the annotation of data and carried out coding tasks for the Dijkstra algorithm and backend management tests of the scoring tool.
+Completed optimizing the scoring and annotation system and added the extra features of querying the scoring progress and confirming the identity by e-mail.
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Randi-f/randi-f.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+### Computer Skills:
+Programming languages: C, Java
+  
+### Language Skills
+English: IELTS 7.5 (Reading 8.5, Listening 8.5, Writing 7.0, Speaking 6.5)
