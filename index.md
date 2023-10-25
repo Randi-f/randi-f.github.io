@@ -11,7 +11,7 @@
       <p><b>address：Beijing</b></p>
     </td>
     <td width="25%">
-      <img src="/证件照FSH.jpg" width="100%">      
+      <img src="/fushihan.jpg" width="100%">      
     </td>
   </tr>
 </table>
