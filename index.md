@@ -5,10 +5,10 @@
   <tr>
     <td width="75%">
       <h1>Shihan Fu</h1>
-      <p><b>undergraduate</b></p>
-      <p><b>BUPT-IoT</b></p>
+      <p><b>postgraduate</b></p>
+      <p><b>Imperial College London-Computing, BUPT-IoT</b></p>
       <p><b>email: Lucifer_1412@bupt.edu.cn</b></p>
-      <p><b>address：Beijing</b></p>
+      <p><b>address：London</b></p>
     </td>
     <td width="25%">
       <img src="/fushihan.jpg" width="100%">      
@@ -17,10 +17,12 @@
 </table>
 
 ### Biography
-I'm a student studying in BUPT, majoring in IoT.
+I'm a postgraduate student studying in Imperial College London, majoring in Computing, who wants to be a software engineer.
   
 ### Educations
-Beijing University of Posts and Telecommunications (BUPT) Sep. 2019 - Present   
+Imperial College London (IC) Sep. 2023 - Present
+
+Beijing University of Posts and Telecommunications (BUPT) Sep. 2019 - Jun. 2023 
 
 Bachelor of Engineering (Candidate) in Internet of Things Engineering 
 
